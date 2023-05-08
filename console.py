@@ -25,17 +25,6 @@ import datetime
 import getpass
 import sqlite3
 
-import termux_auth
-
-"""
-while 1:
-    inputpass=getpass.getpass("input your password("+letter+" jh)")
-    if not termux_auth.auth(inputpass):
-        print("密码错误")
-    else:
-        break
-"""
-
 print("              ")
 print("    ---\     _____l           ")
 print("   ｜   \       o l        ")
