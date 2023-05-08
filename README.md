@@ -12,7 +12,7 @@
 - ...
 
 #### 安装
-为termux/proot/chroot安装git和python3
+在termux/proot/chroot安装git和python3
 已安装可以升级
 ```
 pkg update
@@ -21,11 +21,10 @@ pkg update
 ```
 pkg install git python
 ```
-记得安装之前要换镜像源，不然会很慢
 然后输入
 
 ```
-git clone https://gitee.com/toadstool/efopt/
+git clone https://gitee.com/toadstool/efopt.git
 ```
 要走过场的话，就输入
 ```
